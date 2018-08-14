@@ -34,7 +34,7 @@ must implement:
 * GitHub Account
 * IDE/Text Editor
 
-Your trainer will pass out a link for assignments, projects, and coding challenges. When clicked on for the first time, you will be asked to login with your GitHub credentials, choose your name from a class roster, and accept the assignment. You will also receive an email inviting you to the classroom organization as a future collaborator. Once you have accepted the assignment, a repository with the naming convention [assignment-name]-[your-user-name] will be created on the organization containing instructions and starter code.
+Your trainer will pass out a link for assignments, projects, and coding challenges. When clicked on for the first time, you will be asked to login with your GitHub credentials and accept the assignment. You will also receive an email inviting you to the classroom organization as a future collaborator. Once you have accepted the assignment, a repository with the naming convention [assignment-name]-[your-user-name] will be created on the organization containing instructions and starter code.
 
 Open a terminal shell or git-scm terminal and clone the repository to your computer using the Git command:
 	
